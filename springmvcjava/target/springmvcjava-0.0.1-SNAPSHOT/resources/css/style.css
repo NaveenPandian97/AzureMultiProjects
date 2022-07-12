@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: wheat;
+}
+
+div{
+	text-align:center;
+}
+
+#menuTab,#menuTab td, #menuTab th{
+	border : 2px solid blue;
+	border-collapse: collapse;
+	font-size:1em;
+	margin:auto;
+}
+
+#menuTab td, #menuItem th {
+	padding:1em;
+}
+
+.error {
+	color:red;
+}
